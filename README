@@ -1,0 +1,19 @@
+This is the readme for the CV project Human Action Recognition.
+
+This includes the execution details of the code files.
+
+The project consists MATLAB and Python files.
+
+To run MATLAB files execute respective file(Run_all_Scripts_CV_Project.m) in MATLAB command prompt.
+
+To run python files:
+
+	python RunTrainingModel.py
+
+	** includes tensorflow modules. PLease install required files.
+
+
+
+The dataset is uploaded on the given git reposository. Download from below link:
+
+https://github.com/Shailendra53/Human-Action-Recognition
